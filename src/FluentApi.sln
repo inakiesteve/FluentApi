@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FluentApi", "FluentApi\FluentApi.csproj", "{7C7BD273-F557-4AC6-BCCC-C341C8241620}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentApi.Usage", "FluentApi.Usage\FluentApi.Usage.csproj", "{B1C98429-6ACF-4030-9B67-28AD73A585AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C7BD273-F557-4AC6-BCCC-C341C8241620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C7BD273-F557-4AC6-BCCC-C341C8241620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C7BD273-F557-4AC6-BCCC-C341C8241620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C7BD273-F557-4AC6-BCCC-C341C8241620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1C98429-6ACF-4030-9B67-28AD73A585AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C98429-6ACF-4030-9B67-28AD73A585AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C98429-6ACF-4030-9B67-28AD73A585AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C98429-6ACF-4030-9B67-28AD73A585AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52CB2000-6F85-4A41-A699-9C42E9BC6904}
+	EndGlobalSection
+EndGlobal
